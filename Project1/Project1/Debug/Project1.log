@@ -1,0 +1,6 @@
+﻿  test1.c
+d:\카이스트 c언어 1단계\project\project1\project1\test1.c(7): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+d:\카이스트 c언어 1단계\project\project1\project1\test1.c(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  Project1.vcxproj -> D:\카이스트 C언어 1단계\project\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\카이스트 C언어 1단계\project\Project1\Debug\Project1.pdb (Full PDB)
